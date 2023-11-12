@@ -77,17 +77,13 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![CRE](https://github.com/JEEVAABI/EROSION-AND-DILATION/assets/93427098/65fb2909-7484-423f-8d74-e6d31c4bbf22)
-
-
-### Display the Eroded Image
-![ER2](https://github.com/JEEVAABI/EROSION-AND-DILATION/assets/93427098/e5eec47d-e8a4-454e-a4b2-e6cf9ca5e12e)
-![ER1](https://github.com/JEEVAABI/EROSION-AND-DILATION/assets/93427098/24a4e38e-8eca-4180-aeea-6bedc25d9be5)
+![created txt 1](https://github.com/kavyasenthamarai/EROSION-AND-DILATION/assets/118668727/99e78a36-0a3e-4168-a879-49109ea2d523)
 
 ### Display the Dilated Image
 
-![DI2](https://github.com/JEEVAABI/EROSION-AND-DILATION/assets/93427098/86d07aef-081c-4261-b3be-c1cdf4f646e1)
-![DI1](https://github.com/JEEVAABI/EROSION-AND-DILATION/assets/93427098/6e428054-95c0-4fa7-9577-ef071e31f648)
+![dialayted 1](https://github.com/kavyasenthamarai/EROSION-AND-DILATION/assets/118668727/efaa7ab2-ef6c-4d4b-9e99-3bfdb321f9ab)
+
+![dialated 2](https://github.com/kavyasenthamarai/EROSION-AND-DILATION/assets/118668727/2d2f7bb0-67d0-4187-ab35-f7fa4bb7ba37)
 
 ## Result
 Thus the generated text image is eroded and dilated using Python and OpenCV.
